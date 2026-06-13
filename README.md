@@ -11,11 +11,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 Flutter Developer with **1+ year** of professional experience
+- 🎯 Passionate **Flutter Developer** focused on building clean, scalable mobile apps
 - 🏢 Currently working at **AFAQ for Certification and Inspection**
-- 🛠️ I build clean, scalable, and maintainable mobile apps using **Clean Architecture**
-- 📚 Currently sharpening my **Database Design** fundamentals
-- 🌱 Always exploring new patterns, packages, and best practices in the Flutter ecosystem
+- 🛠️ I follow **Clean Architecture** principles and write maintainable, testable code
+- 📚 Constantly learning — currently deepening my **Database Design** knowledge
+- 🌱 Exploring new packages, patterns, and best practices in the Flutter ecosystem
 - 💬 Ask me about **Flutter, Dart, Bloc/Cubit, Firebase, REST APIs**
 
 ---
@@ -56,6 +56,22 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ibrahim-404&theme=dracula&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-404&theme=dracula&hide_border=true" />
+</div>
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -67,14 +83,8 @@
   </a>
 </p>
 
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ibrahim-404/Ibrahim-404/output/snake.svg" alt="Contribution Snake"/>
-</div>
 
-<div align="center">
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-404&color=blueviolet&style=flat)
 
 </div>
